@@ -24,7 +24,7 @@ The Jupyter notebook in this repository uses a linear regression model to predic
 
 ## Usage
 To use this project, follow these steps:
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine using git clone.
 2. Install the required Python packages numpy, pandas, matplotlib, scikit-learn, seaborn.
 3. Open the Jupyter notebook and run the cells to see the model in action.
 
